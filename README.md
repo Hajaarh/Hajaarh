@@ -5,7 +5,7 @@ Moi c’est **Hajar** ! Mi-analyste mi-ingénieure, 100 % curieuse. Je navigue e
 
 Autodidacte, touche-à-tout et toujours prête à relever un défi, je cherche à combiner compétences techniques et compréhension métier. Ce que j’aime ? Quand la data ne reste pas dans ses tableaux, mais sert vraiment à orienter des décisions, à simplifier la vie des équipes, et à faire avancer les choses.
 
-Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à débugguer du code ? Je fais du padel, de l’escalade, je m’intéresse à la musculation, aux voyages, aux romans à plot twist et aux podcasts d'affaires criminelles (#nouvellepassion).
+Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à débugguer du code ? Je fais du padel, je m’intéresse à la musculation, aux voyages, aux romans à plot twist et aux podcasts d'affaires criminelles (#nouvellepassion).
 
 ---
 
