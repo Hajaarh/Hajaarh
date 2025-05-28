@@ -17,7 +17,7 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
 * **Côté ingénierie** : FastAPI, Airbyte, Docker, Cloud Run
 * **Vue sur la donnée** : Power BI, Looker Studio, Streamlit, Matplotlib, Seaborn
 * **Un peu de DevOps** : GitHub, GCP, Docker, CI/CD
-* **Teamwork makes** : Git, Notion, Google Colab, dbt Docs
+* **Teamwork** : Git, Notion, Google Colab, dbt Docs
 
 ---
 
