@@ -14,7 +14,7 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
 * **Langages que je parle presque mieux que le français** : Python, SQL, JS
 * **Manipulation & gestion des données** : Pandas, NumPy, BigQuery, MongoDB
 * **Architecte de la transformation** : dbt, SQL
-* **Côté ingénierie** : FastAPI, Airbyte, Docker, Cloud Run (oui, j’aime les tuyaux bien connectés 🧪)
+* **Côté ingénierie** : FastAPI, Airbyte, Docker, Cloud Run
 * **Vue sur la donnée** : Power BI, Looker Studio, Streamlit, Matplotlib, Seaborn
 * **Un peu de DevOps** : GitHub, GCP, Docker, CI/CD
 * **Teamwork makes the dream work** : Git, Notion, Google Colab, dbt Docs
