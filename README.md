@@ -50,7 +50,7 @@ Je suis en alternance chez **Article 1**, une association qui agit pour l’éga
 * Contribue aux campagnes, bilans et reporting stratégiques
 * Collabore avec des profils variés, pas forcément techniques
 
-Au-delà de l'aspect technique, je suis également familière avec les sujets transverses : j’ai une bonne compréhension des besoins et objectifs métiers.
+Au-delà de l'aspect technique, je suis également familière avec les sujets transverses, j’ai une bonne compréhension des besoins et objectifs métiers.
 
 En résumé : Un pied dans la tech, un pied dans le métier :)
 
