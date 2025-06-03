@@ -24,10 +24,12 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
 ### 📊 Ce que je sais (vraiment) faire
 
 * Monter des **pipelines automatisés** qui tournent tout seuls comme des grands
+* Analyser des données pour en tirer des insights utiles à la prise de décision
+* * **Nettoyer, enrichir, agréger**
 * Créer des **dashboards** interactifs
-* **Nettoyer, enrichir, agréger**
+* Reprendre la maintenance de projets existants, comme un référentiel de base de données connecté à des outils métiers externes : reprise de la pipeline, analyse de l’existant, refactoring, documentation, et amélioration continue
 * Jouer avec les **CNN** et les IA juste pour voir ce que ça donne
-* Et surtout… apprendre en continu, tester, échouer, corriger, réussir 
+* Et surtout… apprendre en continu, comprendre --> tester --> échouer --> corriger & réussir
 
 ---
 
