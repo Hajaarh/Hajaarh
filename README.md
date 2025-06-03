@@ -35,7 +35,7 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
 
 ### Quelques projets cool ***
 
-* Un pipeline déclenché automatiquement depuis **Notion** (oui oui, les PM adorent)
+* Un pipeline déclenché automatiquement depuis Notion, permettant aux profils non techniques (PM) de lancer eux-mêmes la synchronisation entre notre CRM et un outil métier d’emailing, afin d’y peupler les nouveaux champs avec les bonnes valeurs — et ainsi gagner en autonomie
 * Des dashboards qui racontent des histoires
 * Une mini infra cloud pour exécuter mes scripts Python comme une grande
 * Le tout dans une logique toujours clean : modélisation, documentation, optimisation
