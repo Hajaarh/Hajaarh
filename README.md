@@ -16,7 +16,7 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
 * **Architecte de la transformation** : dbt, SQL
 * **Côté ingénierie** : FastAPI, Airbyte, Docker, Cloud Run
 * **Vue sur la donnée** : Power BI, Looker Studio, Streamlit, Matplotlib, Seaborn
-* **Un peu de DevOps** : GitHub, GCP, Docker, CI/CD
+* **Un peu de DevOps** : GitHub, GCP, AWS, Docker, CI/CD
 * **Teamwork** : Git, Notion, Google Colab, dbt Docs
 
 ---
