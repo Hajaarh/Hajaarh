@@ -35,23 +35,22 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
 
 ### Quelques projets cool & récent ***
 
-* Un pipeline déclenché automatiquement depuis Notion, permettant aux profils non techniques (PM) de lancer eux-mêmes la synchronisation entre notre CRM et un outil métier d’emailing, afin d’y peupler les nouveaux champs avec les bonnes valeurs — et ainsi gagner en autonomie; 
-Ce projet combine :
-🧩 n8n : orchestration low-code et gestion des webhooks entrants
-🛠️ Node.js : scripts personnalisés pour exécuter les jobs et interagir avec les APIs tierces
-☁️ Google Cloud Platform :
-Cloud Run pour héberger l’API d’exécution (/trigger-sync)
-Cloud Build pour le déploiement automatisé de l’image
-BigQuery comme entrepôt de données source
-🧱 dbt : transformation des modèles de données en amont de l’envoi
-📩 Brevo : outil métier destinataire des contacts enrichis
-
+* Un pipeline déclenché automatiquement depuis Notion, permettant aux profils non techniques (PM) de lancer eux-mêmes la synchronisation entre notre CRM et un outil métier d’emailing, afin d’y peupler les nouveaux champs avec les bonnes valeurs — et ainsi gagner en autonomie : 
+***Ce projet combine :***
+- 🧩 n8n : orchestration low-code et gestion des webhooks entrants
+- 🛠️ Node.js : scripts personnalisés pour exécuter les jobs et interagir avec les APIs tierces
+- ☁️ Google Cloud Platform :
+- Cloud Run pour héberger l’API d’exécution (/trigger-sync)
+- Cloud Build pour le déploiement automatisé de l’image
+- BigQuery comme entrepôt de données source
+- 🧱 dbt : transformation des modèles de données en amont de l’envoi
+- 📩 Brevo : outil métier destinataire des contacts enrichis
+------------
 * Des dashboards qui racontent des histoires
 * Une mini infra cloud pour exécuter mes scripts Python comme une grande
 * Le tout dans une logique toujours clean : modélisation, documentation, optimisation
-* 🧹 Automatisation d’un plan de contrôle LCB-FT (client assurance)
-
-Mise en place d’un outil automatique de contrôle des obligations LCB-FT sur les portefeuilles clients :
+* Automatisation d’un plan de contrôle LCB-FT (client assurance) :
+***Mise en place d’un outil automatique de contrôle des obligations LCB-FT sur les portefeuilles clients :***
 - Audit de données en entrée
 - Alertes sur seuils dépassés
 - Reporting pré-formaté en PDF
