@@ -33,35 +33,22 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
 
 ---
 
-### Quelques projets cool & récent ***
+### Quelques projets cool & récents
 
-* Un pipeline déclenché automatiquement depuis Notion, permettant aux profils non techniques (PM) de lancer eux-mêmes la synchronisation entre notre CRM et un outil métier d’emailing, afin d’y peupler les nouveaux champs avec les bonnes valeurs — et ainsi gagner en autonomie : 
-***Ce projet combine :***
-- 🧩 n8n : orchestration low-code et gestion des webhooks entrants
-- 🛠️ Node.js : scripts personnalisés pour exécuter les jobs et interagir avec les APIs tierces
-- ☁️ Google Cloud Platform :
-- Cloud Run pour héberger l’API d’exécution (/trigger-sync)
-- Cloud Build pour le déploiement automatisé de l’image
-- BigQuery comme entrepôt de données source
-- 🧱 dbt : transformation des modèles de données en amont de l’envoi
-- 📩 Brevo : outil métier destinataire des contacts enrichis
-------------
-* Des dashboards qui racontent des histoires
-* Une mini infra cloud pour exécuter mes scripts Python comme une grande
-* Le tout dans une logique toujours clean : modélisation, documentation, optimisation
-* Automatisation d’un plan de contrôle LCB-FT (client assurance) :
-***Mise en place d’un outil automatique de contrôle des obligations LCB-FT sur les portefeuilles clients :***
-- Audit de données en entrée
-- Alertes sur seuils dépassés
-- Reporting pré-formaté en PDF
-
-**Tech stack :** Python, Pandas, Jinja2, GCP Scheduler
-* Industrialisation dbt sur un référentiel de données CRM :
-Refonte et industrialisation d’un projet `dbt` existant :
-- Structuration du repo
-- Mise en place de tests de qualité
-- Documentation automatisée
-- Déploiement via GitHub + GCP
+* **Pipeline automatisé depuis Notion**  
+  Synchronisation autonome entre CRM et outil emailing pour profils non techniques.  
+  *Stack : n8n (orchestration low-code), Node.js, Google Cloud Platform (Cloud Run, Cloud Build, BigQuery), dbt, Brevo.*
+* **Dashboards narratifs & mini infra cloud**  
+  Création de dashboards et mini infrastructure cloud pour exécuter des scripts Python avec modélisation, documentation et optimisation.
+* **Automatisation LCB-FT**  
+  Contrôle automatisé des obligations LCB-FT sur portefeuilles clients, avec audit, alertes et reporting PDF.  
+  *Tech stack : Python, Pandas, Jinja2, GCP Scheduler.*
+* **Industrialisation dbt CRM**  
+  Refonte et industrialisation d’un projet dbt CRM : structuration, tests qualité, documentation et déploiement via GitHub + GCP.
+* **Détection automatique de fake news**  
+  Pipeline complet de data science pour la détection de fausses informations :  
+  *Stack : Python, Pandas, scikit-learn (TF-IDF, Gradient Boosting), PyTorch, Hugging Face Transformers (fine-tuning BERT), Optuna, Matplotlib, Seaborn.*  
+  *Points forts : comparaison d’approches classiques et deep learning, optimisation fine, visualisation claire.*
 
 ---
 
