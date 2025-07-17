@@ -50,10 +50,10 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
   *Stack : Python, Pandas, scikit-learn (TF-IDF, Gradient Boosting), PyTorch, Hugging Face Transformers (fine-tuning BERT), Optuna, Matplotlib, Seaborn.*  
   *Points forts : comparaison d’approches classiques et deep learning, optimisation fine, visualisation claire.*
 * **Refaire l’architecture complète d’un **projet dbt** dans le cadre d’une **migration** vers une V2 d’un site web :**
-→ reconstruction des modèles from scratch en respectant une logique métier claire,
-→ mise en place de relations one-to-one entre les modèles,
-→ structuration rigoureuse en 3 couches (staging, intermediate, mart) pour garantir maintenabilité et scalabilité,
-→ tout en assurant la continuité des dashboards métiers actifs (aucune rupture d’analyse) :)
+*→ reconstruction des modèles from scratch en respectant une logique métier claire,*
+*→ mise en place de relations one-to-one entre les modèles,*
+*→ structuration rigoureuse en 3 couches (staging, intermediate, mart) pour garantir maintenabilité et scalabilité,*
+*→ tout en assurant la continuité des dashboards métiers actifs (aucune rupture d’analyse)*
 
 ---
 
