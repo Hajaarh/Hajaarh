@@ -3,21 +3,19 @@
 
 Moi c’est **Hajar** ! Mi-analyste mi-ingénieure, 100 % curieuse. 
 Autodidacte, touche-à-tout et toujours prête à relever un défi, je cherche à combiner compétences techniques et compréhension métier.
-Ce que j’aime ? Quand la data ne reste pas dans ses tableaux, mais sert vraiment à orienter des décisions, et à faire avancer les choses.
-
 Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à débugguer du code ? Je fais du padel, je m’intéresse à la musculation et aux voyages.
 
 ---
 
 ### 💻 Ma stack aka ma boîte à outils magique
 
-* **Langages que je parle presque mieux que le français** : Python, SQL, JS
+* **Langages que je parle presque mieux que le français** : Python, SQL
 * **Manipulation & gestion des données** : Pandas, NumPy, BigQuery, MongoDB
 * **Architecte de la transformation** : dbt, SQL
 * **Côté ingénierie** : FastAPI, Airbyte, Docker, Cloud Run
 * **Vue sur la donnée** : Power BI, Looker Studio, Streamlit, Matplotlib, Seaborn
 * **Un peu de DevOps** : GitHub, GCP, AWS, Docker, CI/CD
-* **Teamwork** : Git, Notion, Google Colab, dbt Docs
+* **Teamwork** : Git, Notion, Google Colab, dbt Docs, Miro
 
 ---
 
@@ -28,8 +26,10 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
 * * **Nettoyer, enrichir, agréger**
 * Créer des **dashboards** interactifs
 * Reprendre la maintenance de projets existants, comme un référentiel de base de données connecté à des outils métiers externes : reprise de la pipeline, analyse de l’existant, refactoring, documentation, et amélioration continue
+* Gérer des migrations de données 
+* Pilotage de projets data, en lien direct avec les équipes métiers et en collaboration étroite avec les équipes tech/dev
 * Jouer avec les **CNN** et les IA juste pour voir ce que ça donne
-* Et surtout… apprendre en continu, comprendre --> tester --> échouer --> corriger & réussir
+* Et surtout… toujours dans une démarche proactive : apprendre en continu, comprendre → tester → échouer → ajuster → réussir
 
 ---
 
@@ -49,6 +49,11 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
   Pipeline complet de data science pour la détection de fausses informations :  
   *Stack : Python, Pandas, scikit-learn (TF-IDF, Gradient Boosting), PyTorch, Hugging Face Transformers (fine-tuning BERT), Optuna, Matplotlib, Seaborn.*  
   *Points forts : comparaison d’approches classiques et deep learning, optimisation fine, visualisation claire.*
+* **Refaire l’architecture complète d’un **projet dbt** dans le cadre d’une **migration** vers une V2 d’un site web :**
+→ reconstruction des modèles from scratch en respectant une logique métier claire,
+→ mise en place de relations one-to-one entre les modèles,
+→ structuration rigoureuse en 3 couches (staging, intermediate, mart) pour garantir maintenabilité et scalabilité,
+→ tout en assurant la continuité des dashboards métiers actifs (aucune rupture d’analyse) :)
 
 ---
 
