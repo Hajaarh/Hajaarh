@@ -47,7 +47,8 @@ Et quand je ne suis pas en train d’écrire du SQL ou de me prendre la tête à
   Refonte et industrialisation d’un projet dbt CRM : structuration, tests qualité, documentation et déploiement via GitHub + GCP.
 * **Détection automatique de fake news**  
   Pipeline complet de data science pour la détection de fausses informations :  
-  *Stack : Python, Pandas, scikit-learn (TF-IDF, Gradient Boosting), PyTorch, Hugging Face Transformers (fine-tuning BERT), Optuna, Matplotlib, Seaborn.*  
+  *Stack : Python, Pandas, scikit-learn (TF-IDF, Gradient Boosting), PyTorch, Hugging Face Transformers (fine-tuning BERT), Optuna, Matplotlib, Seaborn.*
+  *+ Stack ELK.*
   *Points forts : comparaison d’approches classiques et deep learning, optimisation fine, visualisation claire.*
 * **Refaire l’architecture complète d’un **projet dbt** dans le cadre d’une **migration** vers une V2 d’un site web :**
 *→ reconstruction des modèles from scratch en respectant une logique métier claire*
